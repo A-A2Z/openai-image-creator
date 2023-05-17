@@ -55,7 +55,7 @@ const Home = () => {
         );
     }
   return (
-    <section className='max-w-7xl max-auto'>
+    <section className='max-w-7xl mx-auto'>
         <div>
             <h1 className='text-extra-bold text-[#222328] text-[32px]'>
                 The Comunity Shocase
