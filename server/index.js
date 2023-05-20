@@ -29,4 +29,5 @@ const startServer = async () => {
         console.log(err);
     }
 }
+
 startServer();
